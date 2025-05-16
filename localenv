@@ -1,0 +1,6 @@
+PORT=5000
+DB_STRING=mongodb+srv://naiemhosen430:qEXl1YGQN2cKXV8i@cluster0.mmllz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+FRONT_END_URL=http://localhost:3000
+JWT_TOKEN_SECRET_KEY=ffefefexfefx4r4r4ffefemrcr94f4ff4f4f4f4f4ee
+COOKI_NAME=jwt
+COOKI_SECRET_KEY=ffefefexfefx4r4r4ffefemrcr94f4ff4f4f4f4f4ee
